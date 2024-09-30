@@ -10,9 +10,25 @@
 
 <br />
 
-### About Me 🚀
-🎓 I’m an DevOps enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Coding, DevOps, Web Dev, Machine Learning  & I enjoy learning new things. </br>
 
-- 🌱 I’m currently learning ...
-- PYTHON, DEVOPS, SQL....
+## About Me 🚀
+🎓 I’m a DevOps enthusiast and a junior pursuing my B.Tech in Computer Science & Engineering.  
+👨‍💻 I am passionate about coding, DevOps, web development, and machine learning, and I enjoy learning new things.
+
+- 🌱 I’m currently learning: Python, DevOps, Linux REDHAT, GITBASH, GitHub, Maven, Tomcat,  SQL.
+- 
+# Chatroom Application
+## About the Project
+This project is a multithreaded chatroom application developed using Python's socket programming. It allows multiple clients to communicate in real-time, showcasing efficient handling of client-server interactions.
+
+## Features
+- Multithreaded support for multiple clients.
+- Real-time communication using sockets.
+- Simple and intuitive command-line interface.
+- Built with Python for easy customization and extensibility.
+
+## Technologies Used
+- **Programming Language**: Python
+- **Networking**: Socket Programming
+- **Version Control**: Git, GitHub
+
