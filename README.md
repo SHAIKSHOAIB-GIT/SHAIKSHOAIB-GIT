@@ -23,8 +23,7 @@
     <section class="section">
         <h2>SKILLS</h2>
         <div style="display: flex; gap: 20px;">
-        <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Python</div>
-        <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Linux</div>
+        <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Python</div><div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Linux</div>
         <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">SQL</div>
         <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">GIT</div>
     </div>
