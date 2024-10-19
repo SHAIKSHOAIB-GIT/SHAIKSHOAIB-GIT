@@ -9,10 +9,6 @@
         <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a>
         <a href="mailto:shaikshoaib820@gmail.com">
         <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-        <div class="contact-info">
-            <div class="profile-image">
-                <img src="1718488987717.jpeg" alt="Shaik Shoaib's photo">
-            </div>
         </div>
     </header>
     <hr>
