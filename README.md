@@ -22,9 +22,12 @@
     </section>
     <section class="section">
         <h2>SKILLS</h2>
-            <li>Python</li>    
-            <li>Linux</li>     <li>sql</li>
-            <li>GIT</li>
+            <div class="skills-container">
+        <div class="skill">Python</div>
+        <div class="skill">Linux</div>
+        <div class="skill">SQL</div>
+        <div class="skill">GIT</div>
+    </div>
     </section>
     <section class="section">
         <h2>PROJECTS</h2>
