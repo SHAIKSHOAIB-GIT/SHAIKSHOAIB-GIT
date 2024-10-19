@@ -16,12 +16,12 @@
         </div>
     </header>
     <hr>
-    ## Career Objective
+    ###Career Objective
 
 I am dedicated to developing the essential skills required to advance my career and gain the industrial experience necessary to become a successful entrepreneur. My focus is on mastering technologies, tools, and methodologies that will equip me to innovate and lead in the business landscape.
 
 ## Skills
-### Programming Languages                ### Operating Systems & Tools                ###Version Control System
+### Programming Languages                Operating Systems & Tools                     Version Control System
 - **Python** (Intermediate)              - **Linux** (Advanced)                        - **Git** (Advanced)
 ### Databases                            - **Bash** (Intermediate)                     - **GitHub** (Advanced)   
 - **SQL** (Advanced)                     - **Jenkins** (Intermediate)                                  
