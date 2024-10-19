@@ -21,19 +21,26 @@
         <p>Enthusiastic 3rd Year B.Tech CSE Student specializing in Artificial Intelligence and Machine Learning. Proficient in Linux commands, Git for version control, and GitHub for collaborative development. Experienced in managing EC2 instances on AWS and utilizing Jenkins for application deployment and maintenance. Eager to apply my skills in real-world projects and contribute to innovative solutions in the tech industry.</p>
     </section>
     <section class="section">
-        <h2>SKILLS</h2>
-        <div style="display: flex; justify-content: space-between;">
-        <div style="width: 48%;">
+    <h2>SKILLS</h2>
+    <div style="display: flex; justify-content: space-between;">
+        <div style="width: 30%;">
             <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Python</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Linux</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Django</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Flask</div>
         </div>
-        <div style="width: 48%;">
+        <div style="width: 30%;">
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Linux</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Bash</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Docker</div>
+        </div>
+        <div style="width: 30%;">
             <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">SQL</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">GIT</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">PostgreSQL</div>
+            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">MySQL</div>
         </div>
     </div>
-    </section>
-    <section class="section">
+</section>
+<section class="section">
         <h2>PROJECTS</h2>
         <h3>MAVEN Web Application</h3>
         <p><em>AWS Cloud, Jenkins</em></p>
