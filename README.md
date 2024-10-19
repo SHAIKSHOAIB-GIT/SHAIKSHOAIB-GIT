@@ -6,6 +6,12 @@
 <a href="mailto:shaikshoaib820@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaik Shoaib - DevOps Engineer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -86,8 +92,7 @@
             <li>Deployed the application on AWS using Jenkins for continuous integration and continuous deployment (CI/CD).</li>
             <li>Configured Jenkins pipelines to automate build, test, and deployment processes, ensuring smooth updates.</li>
         </ul>
-
-<h3>Chatroom Application</h3>
+        <h3>Chatroom Application</h3>
         <p><em>Python, Socket Programming</em></p>
         <ul>
             <li>Developed a multithreaded chatroom application that supports multiple clients using Python sockets.</li>
@@ -112,3 +117,5 @@
             <li>2nd Rank - Cloud Project Presentation Competition</li>
         </ul>
     </section>
+</body>
+</html>
