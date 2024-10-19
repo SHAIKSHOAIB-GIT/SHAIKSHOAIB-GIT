@@ -4,7 +4,8 @@
 </head>
 <body>
     <header>
-        ## Hey, I'm Shoaib! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+        <div>
+        ## Hey, I'm Shoaib!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
         <a href="https://www.linkedin.com/in/shaik-shoaib-/">
         <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a>
         <a href="mailto:shaikshoaib820@gmail.com">
