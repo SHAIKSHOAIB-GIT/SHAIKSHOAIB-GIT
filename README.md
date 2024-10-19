@@ -16,29 +16,16 @@
         </div>
     </header>
     <hr>
-    <section class="section">
-        <h2>SUMMARY</h2>
-        <p>Enthusiastic 3rd Year B.Tech CSE Student specializing in Artificial Intelligence and Machine Learning. Proficient in Linux commands, Git for version control, and GitHub for collaborative development. Experienced in managing EC2 instances on AWS and utilizing Jenkins for application deployment and maintenance. Eager to apply my skills in real-world projects and contribute to innovative solutions in the tech industry.</p>
-    </section>
-    <section class="section">
-    <h2>SKILLS</h2>
-    <div style="display: flex; justify-content: space-between;">
-        <div style="width: 30%;">
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Python</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Django</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Flask</div>
-        </div>
-        <div style="width: 30%;">
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Linux</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Bash</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">Docker</div>
-        </div>
-        <div style="width: 30%;">
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">SQL</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">PostgreSQL</div>
-            <div style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">MySQL</div>
-        </div>
-    </div>
+    ## Career Objective
+
+I am dedicated to developing the essential skills required to advance my career and gain the industrial experience necessary to become a successful entrepreneur. My focus is on mastering technologies, tools, and methodologies that will equip me to innovate and lead in the business landscape.
+
+## Skills
+### Programming Languages                ### Operating Systems & Tools                ###Version Control System
+- **Python** (Intermediate)              - **Linux** (Advanced)                        - **Git** (Advanced)
+### Databases                            - **Bash** (Intermediate)                     - **GitHub** (Advanced)   
+- **SQL** (Advanced)                     - **Jenkins** (Intermediate)                                  
+
 </section>
 <section class="section">
         <h2>PROJECTS</h2>
