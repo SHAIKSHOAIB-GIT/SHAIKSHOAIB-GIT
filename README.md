@@ -4,6 +4,9 @@
 </head>
 <body>
     <header>
+        <section class="section">
+            <h2>Resume</h2>
+        </section>
         <div>
         ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shoaib!
         <a href="https://www.linkedin.com/in/shaik-shoaib-/">
@@ -20,9 +23,9 @@
     <section class="section">
         <h2>SKILLS</h2>
         <ul>
-            <li>Languages: Python, Shell Scripting, SQL</li>
-            <li>Operating Systems: Linux, Windows</li>
-            <li>Tools: GIT, GitHub</li>
+            <li>Python</li>    <li>GitHub</li>
+            <li>Linux</li>     <li>sql</li>
+            <li>GIT</li>
         </ul>
     </section>
     <section class="section">
