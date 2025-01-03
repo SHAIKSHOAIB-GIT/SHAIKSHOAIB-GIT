@@ -7,6 +7,11 @@
 I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in web technologies. My goal is to gain industrial experience and develop the skills necessary to become a successful entrepreneur in the tech industry.
 
 <h3 align="left">Connect with me:</h3>
+## Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/shaikshoaib](https://www.linkedin.com/in/shaikshoaib)
+- **Email:** [shaik.shoaib@example.com](mailto:shaikshoaib820@gmail.com)
+- **GitHub:** [github.com/SHAIKSHOAIB-GIT](https://github.com/SHAIKSHOAIB-GIT)
 <p align="left">
 </p>
 
