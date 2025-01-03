@@ -9,8 +9,8 @@ I am a Computer Science student specializing in Artificial Intelligence and Mach
 <h3 align="left">Connect with me:</h3>
 ## Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/shaikshoaib](https://www.linkedin.com/in/shaik-shoaib-/)
-- **Email:** [shaik.shoaib](mailto:shaikshoaib820@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shaik-shoaib-/](https://www.linkedin.com/in/shaik-shoaib-/)
+- **Email:** [shaikshoaib](mailto:shaikshoaib820@gmail.com)
 - **GitHub:** [github.com/SHAIKSHOAIB-GIT](https://github.com/SHAIKSHOAIB-GIT)
 <p align="left">
 </p>
