@@ -2,44 +2,25 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAIKSHOAIB-GIT&color=blue)
 
-## Career Objective
+## About Me
 
-I am dedicated to developing the essential skills required to advance my career and gain the industrial experience necessary to become a successful entrepreneur. My focus is on mastering technologies, tools, and methodologies that will equip me to innovate and lead in the business landscape.
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in web technologies. My goal is to gain industrial experience and develop the skills necessary to become a successful entrepreneur in the tech industry.
 
 ## Skills
 
-### Programming Languages
-
-- **Python:** ![90%](https://progress-bar.dev/90)
-- **Oracle SQL:** ![80%](https://progress-bar.dev/80)
-- **Data Science:** ![80%](https://progress-bar.dev/80)
-
-### DevOps Tools
-
-- **AWS:** ![80%](https://progress-bar.dev/80)
-- **Docker:** ![70%](https://progress-bar.dev/70)
-- **Kubernetes:** ![70%](https://progress-bar.dev/70)
-- **Terraform:** ![60%](https://progress-bar.dev/60)
-- **Ansible:** ![50%](https://progress-bar.dev/50)
-
-### Version Control
-
-- **Git:** ![90%](https://progress-bar.dev/90)
-- **GitHub:** ![80%](https://progress-bar.dev/80)
-
-### Operating Systems
-
-- **Linux:** ![80%](https://progress-bar.dev/80)
+- **Programming Languages:** Python, Oracle SQL
+- **DevOps Tools:** AWS, Docker, Kubernetes, Terraform, Ansible
+- **Version Control:** Git, GitHub
+- **Operating Systems:** Linux
 
 ## Projects
 
-### MAVEN Web Application
+### [Maven Web Application](https://github.com/SHAIKSHOAIB-GIT/maven-web-application)
 
-- **Technologies:** AWS Cloud, Jenkins
-- **Description:** Deployed the application on AWS using Jenkins for continuous integration and continuous deployment (CI/CD). Configured Jenkins pipelines to automate build, test, and deployment processes, ensuring smooth updates.
+Developed and deployed a Maven-based web application on AWS, utilizing Jenkins for CI/CD to automate build, test, and deployment processes.
 
-## Contact Me
+## Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Instagram:** [Your Instagram](https://www.instagram.com/your-profile)
+- **LinkedIn:** [linkedin.com/in/shaikshoaib](https://www.linkedin.com/in/shaikshoaib)
+- **Email:** [shaik.shoaib@example.com](mailto:shaik.shoaib@example.com)
+- **GitHub:** [github.com/SHAIKSHOAIB-GIT](https://github.com/SHAIKSHOAIB-GIT)
