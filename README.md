@@ -4,7 +4,9 @@
 
 ## About Me
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in web technologies. My goal is to gain industrial experience and develop the skills necessary to become a successful entrepreneur in the tech industry.
+I am a Computer Science graduate with a specialization in Artificial Intelligence & Machine Learning, actively preparing for Java Developer and DevOps Engineer roles.
+
+I have strong hands-on experience in Java backend development, RESTful APIs, and cloud-based deployments, along with DevOps practices such as CI/CD, containerization, and cloud infrastructure. My goal is to gain solid industry experience and build scalable, production-ready systems while growing toward long-term entrepreneurial ambitions in the tech space.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
