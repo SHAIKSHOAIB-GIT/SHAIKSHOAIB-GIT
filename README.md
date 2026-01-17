@@ -52,8 +52,7 @@ MySQL           █████████████████░░░ 85%
 MongoDB         ███████████████░░░░░ 75%
 AWS             ████████████████░░░░ 80%
 Linux           ███████████████░░░░░ 80%
-
-
+```
 
 <h3 align="left">Connect with me:</h3>
 ## Let's Connect
